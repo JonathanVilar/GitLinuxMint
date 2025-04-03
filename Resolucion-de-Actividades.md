@@ -9,6 +9,8 @@ peta llamada /datos donde adjunto un cheat sheet de bash que me fue muy útil.
 3)Ahora agregue el directorio al control de versiones desde el directorio de 
 la carpeta GitLinuxMint con "git add ." y hice un commit para subir las modificaciones con los nuevos registros del trabajo intermedio.
 
+4)Se adjunta también captura de como estaba antes el repositorio y otra de 
+como queda después.
 
 
 
