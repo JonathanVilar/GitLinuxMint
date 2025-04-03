@@ -6,7 +6,9 @@ Git CMD. Para ello tuve que pasar la privacidad de privado a público y ingresar
 los comandos adjuntados en la imagen dentro de la carpeta /imágenes y una car-
 peta llamada /datos donde adjunto un cheat sheet de bash que me fue muy útil.
 
-3)
+3)Ahora agregue el directorio al control de versiones desde el directorio de 
+la carpeta GitLinuxMint con "git add ." y hice un commit para subir las modificaciones con los nuevos registros del trabajo intermedio.
+
 
 
 
